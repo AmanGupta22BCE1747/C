@@ -1,3 +1,5 @@
+/*Code for checking the no is prime or composite untill user enter -1
+printno of prime numbers and composite numbers*/
 #include<stdio.h>
 int main(){
     int n;
